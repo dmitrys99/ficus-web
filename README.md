@@ -1,4 +1,7 @@
 ## Пример web-приложения на Ficus
+0. Клонируем и ставим компилятор Ficus
+
+https://github.com/dmitrys99/ficus (надо настроить $FICUS_PATH и $PATH)
 
 1. Клонируем https://github.com/CrowCpp/Crow.git
 ```
