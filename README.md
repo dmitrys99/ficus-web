@@ -14,7 +14,7 @@ $ git clone https://github.com/CrowCpp/Crow.git
 $ sudo port install asio
 
 # Linux
-$ sudo apt install asio
+$ sudo apt install libasio-dev
 ```
 
 3. Собираем
